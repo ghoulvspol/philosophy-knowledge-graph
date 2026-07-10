@@ -1,0 +1,89 @@
+{
+  "project": "哲学",
+  "items": [
+    {
+      "title": "人工智能伦理",
+      "file": "concepts/人工智能伦理.md",
+      "media": {
+        "diagram": "media/人工智能伦理-diagram.png"
+      }
+    },
+    {
+      "title": "分析哲学",
+      "file": "concepts/分析哲学.md",
+      "media": {
+        "video": "media/分析哲学.mp4",
+        "video_silent": "media/分析哲学-loop.mp4",
+        "infographic": "media/分析哲学-info.png",
+        "diagram": "media/分析哲学-diagram.png"
+      }
+    },
+    {
+      "title": "后现代主义",
+      "file": "concepts/后现代主义.md",
+      "media": {
+        "video": "media/后现代主义.mp4",
+        "video_silent": "media/后现代主义-loop.mp4",
+        "infographic": "media/后现代主义-info.png",
+        "diagram": "media/后现代主义-diagram.png"
+      }
+    },
+    {
+      "title": "孔子",
+      "file": "concepts/孔子.md",
+      "media": {
+        "video": "media/孔子.mp4",
+        "video_silent": "media/孔子-loop.mp4",
+        "infographic": "media/孔子-info.png",
+        "diagram": "media/孔子-diagram.png"
+      }
+    },
+    {
+      "title": "存在主义",
+      "file": "concepts/存在主义.md",
+      "media": {
+        "diagram": "media/存在主义-diagram.png"
+      }
+    },
+    {
+      "title": "新儒家",
+      "file": "concepts/新儒家.md",
+      "media": {
+        "video": "media/新儒家.mp4",
+        "video_silent": "media/新儒家-loop.mp4",
+        "infographic": "media/新儒家-info.png",
+        "diagram": "media/新儒家-diagram.png"
+      }
+    },
+    {
+      "title": "现象学",
+      "file": "concepts/现象学.md",
+      "media": {
+        "video": "media/现象学.mp4",
+        "video_silent": "media/现象学-loop.mp4",
+        "infographic": "media/现象学-info.png",
+        "diagram": "media/现象学-diagram.png"
+      }
+    },
+    {
+      "title": "维特根斯坦",
+      "file": "concepts/维特根斯坦.md",
+      "media": {
+        "video": "media/维特根斯坦.mp4",
+        "video_silent": "media/维特根斯坦-loop.mp4",
+        "infographic": "media/维特根斯坦-info.png",
+        "diagram": "media/维特根斯坦-diagram.png"
+      }
+    },
+    {
+      "title": "老子",
+      "file": "concepts/老子.md",
+      "media": {
+        "video": "media/老子.mp4",
+        "video_silent": "media/老子-loop.mp4",
+        "infographic": "media/老子-info.png",
+        "diagram": "media/老子-diagram.png"
+      }
+    }
+  ]
+}

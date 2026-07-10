@@ -1,0 +1,274 @@
+{
+  "project": "哲学",
+  "vault_path": "/Users/harden/workspace/philosophy-knowledge-graph/vault/哲学",
+  "concepts": [
+    {
+      "file": "concepts/中国哲学.md",
+      "title": "中国哲学",
+      "tags": [
+        "哲学",
+        "中国",
+        "儒家",
+        "道家",
+        "墨家",
+        "诸子百家"
+      ],
+      "category": "concepts",
+      "has_media": true,
+      "priority": 5,
+      "complexity": "medium",
+      "word_count": 516
+    },
+    {
+      "file": "concepts/人工智能伦理.md",
+      "title": "人工智能伦理",
+      "tags": [
+        "哲学",
+        "AI",
+        "伦理学",
+        "当代",
+        "科技哲学",
+        "2020s"
+      ],
+      "category": "concepts",
+      "has_media": false,
+      "priority": 5,
+      "complexity": "medium",
+      "word_count": 914
+    },
+    {
+      "file": "concepts/分析哲学.md",
+      "title": "分析哲学",
+      "tags": [
+        "哲学",
+        "分析哲学",
+        "语言",
+        "逻辑",
+        "英美哲学"
+      ],
+      "category": "concepts",
+      "has_media": false,
+      "priority": 5,
+      "complexity": "medium",
+      "word_count": 668
+    },
+    {
+      "file": "concepts/后现代主义.md",
+      "title": "后现代主义",
+      "tags": [
+        "哲学",
+        "后现代主义",
+        "解构",
+        "权力",
+        "知识"
+      ],
+      "category": "concepts",
+      "has_media": false,
+      "priority": 5,
+      "complexity": "medium",
+      "word_count": 665
+    },
+    {
+      "file": "concepts/孔子.md",
+      "title": "孔子",
+      "tags": [
+        "哲学",
+        "中国哲学",
+        "儒家",
+        "人物",
+        "春秋"
+      ],
+      "category": "concepts",
+      "has_media": false,
+      "priority": 5,
+      "complexity": "medium",
+      "word_count": 612
+    },
+    {
+      "file": "concepts/存在主义.md",
+      "title": "存在主义",
+      "tags": [
+        "哲学",
+        "存在主义",
+        "现代哲学",
+        "自由",
+        "荒诞"
+      ],
+      "category": "concepts",
+      "has_media": false,
+      "priority": 5,
+      "complexity": "medium",
+      "word_count": 686
+    },
+    {
+      "file": "concepts/新儒家.md",
+      "title": "新儒家",
+      "tags": [
+        "哲学",
+        "中国哲学",
+        "新儒家",
+        "当代",
+        "20世纪"
+      ],
+      "category": "concepts",
+      "has_media": false,
+      "priority": 5,
+      "complexity": "medium",
+      "word_count": 767
+    },
+    {
+      "file": "concepts/现象学.md",
+      "title": "现象学",
+      "tags": [
+        "哲学",
+        "现象学",
+        "现代哲学",
+        "意识",
+        "胡塞尔"
+      ],
+      "category": "concepts",
+      "has_media": false,
+      "priority": 5,
+      "complexity": "medium",
+      "word_count": 622
+    },
+    {
+      "file": "concepts/维特根斯坦.md",
+      "title": "维特根斯坦",
+      "tags": [
+        "哲学",
+        "分析哲学",
+        "语言哲学",
+        "人物",
+        "20世纪"
+      ],
+      "category": "concepts",
+      "has_media": false,
+      "priority": 5,
+      "complexity": "medium",
+      "word_count": 542
+    },
+    {
+      "file": "concepts/老子.md",
+      "title": "老子",
+      "tags": [
+        "哲学",
+        "中国哲学",
+        "道家",
+        "人物",
+        "春秋"
+      ],
+      "category": "concepts",
+      "has_media": false,
+      "priority": 5,
+      "complexity": "medium",
+      "word_count": 532
+    },
+    {
+      "file": "concepts/伦理学.md",
+      "title": "伦理学",
+      "tags": [
+        "哲学",
+        "伦理学",
+        "道德",
+        "善",
+        "人生"
+      ],
+      "category": "concepts",
+      "has_media": true,
+      "priority": 5,
+      "complexity": "low",
+      "word_count": 385
+    },
+    {
+      "file": "concepts/西方哲学.md",
+      "title": "西方哲学",
+      "tags": [
+        "哲学",
+        "西方",
+        "古希腊",
+        "理性",
+        "逻辑"
+      ],
+      "category": "concepts",
+      "has_media": true,
+      "priority": 5,
+      "complexity": "low",
+      "word_count": 462
+    },
+    {
+      "file": "concepts/哲学.md",
+      "title": "哲学",
+      "tags": [
+        "哲学",
+        "入门",
+        "爱智慧",
+        "定义"
+      ],
+      "category": "concepts",
+      "has_media": true,
+      "priority": 4,
+      "complexity": "low",
+      "word_count": 461
+    },
+    {
+      "file": "concepts/本体论.md",
+      "title": "本体论",
+      "tags": [
+        "哲学",
+        "本体论",
+        "存在",
+        "形而上学"
+      ],
+      "category": "concepts",
+      "has_media": true,
+      "priority": 4,
+      "complexity": "low",
+      "word_count": 373
+    },
+    {
+      "file": "concepts/苏格拉底.md",
+      "title": "苏格拉底",
+      "tags": [
+        "哲学",
+        "西方哲学",
+        "古希腊",
+        "人物"
+      ],
+      "category": "concepts",
+      "has_media": true,
+      "priority": 4,
+      "complexity": "low",
+      "word_count": 372
+    },
+    {
+      "file": "concepts/认识论.md",
+      "title": "认识论",
+      "tags": [
+        "哲学",
+        "认识论",
+        "知识",
+        "真理"
+      ],
+      "category": "concepts",
+      "has_media": true,
+      "priority": 4,
+      "complexity": "low",
+      "word_count": 356
+    }
+  ],
+  "selected": [
+    "人工智能伦理",
+    "分析哲学",
+    "后现代主义",
+    "孔子",
+    "存在主义",
+    "新儒家",
+    "现象学",
+    "维特根斯坦",
+    "老子"
+  ],
+  "total": 16,
+  "selected_count": 9,
+  "media_dir": "/Users/harden/workspace/philosophy-knowledge-graph/vault/哲学/media"
+}
