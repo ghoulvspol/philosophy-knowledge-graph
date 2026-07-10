@@ -9,7 +9,7 @@ VAULT = Path(__file__).parent / "vault" / "哲学"
 OUT = Path(__file__).parent / "output"
 SITE_TITLE = "哲学知识图谱"
 SITE_LOGO = "哲"
-BASE_PATH = ""
+BASE_PATH = "/philosophy-knowledge-graph"
 
 CATEGORY_DIRS = {"concepts": "concepts"}
 CATEGORY_LABELS = {"concepts": "概念"}
