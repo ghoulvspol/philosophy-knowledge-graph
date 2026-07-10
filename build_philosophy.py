@@ -385,7 +385,7 @@ def build():
   <div class="gold-divider"><div class="gold-divider-diamond"></div></div>
   <div class="section"><div class="section-header"><span class="section-title">标签云</span><span class="section-line"></span></div><div class="tag-cloud">{"".join(tag_items)}</div></div>
   {media_section}
-  <div class="footer-promo"><div class="promo-story"><h3>关于本站</h3><p>本知识图谱由 AI 辅助构建，基于中西方哲学经典文献，涵盖从古希腊三贤到中国诸子百家的核心思想。每个概念卡片都包含详细解释、相互引用和视觉配图。</p></div></div>
+  <div class="footer-promo"><div class="promo-story"><h3>关于本站</h3><p>本知识图谱由滔哥构建，基于中西方哲学经典文献，涵盖从古希腊三贤到中国诸子百家的核心思想。每个概念卡片都包含详细解释、相互引用和视觉配图。</p></div></div>
 </div>
 </main></div><script>{JS}</script></body></html>"""
 
